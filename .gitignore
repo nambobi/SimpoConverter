@@ -1,0 +1,9 @@
+# Output folders and unfinished images
+*_images/
+*.part
+
+# Backup and temporary files from "simpoconv update"
+*.bak
+*.new
+
+__pycache__/
